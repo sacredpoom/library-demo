@@ -1,0 +1,21 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    background-color: #4c3f5e;
+    text-align: center;
+    padding: 20px;
+}
+
+.hero-title {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+  
+.hero-description {
+    font-size: 1.2em;
+    color: #000000;
+    font-weight: bold;
+}
